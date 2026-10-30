@@ -34,7 +34,7 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 
 Der Workshop vermittelt Informationen zu Datenrechten.
 
-**Der Workshop ist keine Rechtsberatung.**
+>[!Important]**Der Workshop ist keine Rechtsberatung.**
 
 Falls es später zu einem Urheberrechtsstreit kommt, kann aus den Workshop-Inhalten keine Haftung gegenüber den Referierenden abgeleitet werden.
 
