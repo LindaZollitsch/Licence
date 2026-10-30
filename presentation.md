@@ -85,6 +85,161 @@ Eine Lizenz ist ein vertraglich vereinbartes Nutzungsrecht.
 
 ![Lizenz](./images/lizenz2.png)
 
+
+{{1}}
+**********
+
+Praxisbeispiel: Nutzung von Inhalten ohne Lizenzangabe
+
+**Wenn ein Werk urheberrechtlich geschützt ist und keine Lizenzangabe vorhanden ist:**
+
+- Es gilt grundsätzlich: Alle Rechte vorbehalten.
+- Eine Nutzung ist nicht automatisch erlaubt.
+- Die Rechteinhaber*in muss um Erlaubnis gefragt werden.
+
+**Wenn ein Inhalt nicht urheberrechtlich geschützt ist:**
+
+- Es wird keine Lizenz benötigt.
+- Der Inhalt kann genutzt werden.
+- Beispiel: Wetterdaten des DWD, die keinen urheberrechtlichen Schutz genießen.
+
+**Problem in der Praxis:**
+
+-  Wenn keine Lizenz oder Kennzeichnung vorhanden ist, ist oft unklar, ob ein Schutz besteht.
+-  Es ist nicht immer direkt erkennbar, ob eine Nutzung erlaubt ist.
+
+**********
+
+
+## So funktioiniert ein Lizenzsystem
+
+![Lizenz](./images/lizenz3.png)
+
+
+{{1-2}}
+**********
+
+**Individuelle Lizenzen vs. Lizenzsysteme**
+
+- Eine Lizenz kann grundsätzlich individuell vereinbart werden.
+
+  - Das bedeutet: Rechteinhaber*in und Nutzer*in legen die Bedingungen der Nutzung direkt fest.
+  - Dies kann in der Praxis aufwendig sein.
+
+**Lizenzsysteme vereinfachen diesen Prozess:**
+
+- Die Rechteinhaber*in vergibt eine vorgefertigte Lizenz mit festgelegten Bedingungen.
+
+**Funktionsweise eines Lizenzsystems:**
+
+- Das Lizenzsystem vermittelt den Vertragsinhalt.
+- Die Nutzer:innen müssen keine individuellen Vertragsbedingungen aushandeln.
+- Der Nutzungsvertrag kommt automatisch durch die Nutzung des Werks zustande.
+- Es gelten die Bedingungen der ausgewählten Lizenz.
+
+
+**********
+
+## Vor- und Nachteile von Lizenzsystemen
+
+
+**Vorteile:**
+
+-  Einfach und unkompliziert: Vorgefertigte Lizenzbedingungen müssen nicht individuell ausgehandelt werden.
+
+- Schnelle Anwendung: Eine passende Lizenz kann direkt auf ein Werk bzw. Daten angewendet werden.
+
+- Interoperabilität und Universalität: Bekannte Lizenzsysteme wie Creative Commons sind weit
+verbreitet. Die Nutzung und Interpretation der Lizenzen ist dadurch einfacher und über verschiedene Kontexte hinweg möglich.
+
+
+**Nachteile:**
+
+- Möglicherweise fehlende Individualität: Vorgegebene Lizenzbedingungen müssen auf viele
+verschiedene Werke und Daten anwendbar sein. Dadurch können sie möglicherweise nicht alle individuellen Nutzungsbedingungen oder besonderen Anforderungen eines Werks abbilden.
+
+### Creative Commons
+
+**Creative Commons (CC) als Lizenzsystem**
+
+- Individuelle Lizenzverträge können in der Praxis aufwendig sein, da für jede Nutzung ein eigener Vertrag geschlossen werden müsste.
+- Lizenzsysteme bieten deshalb standardisierte Lizenzverträge an.
+- Die Creative-Commons-Lizenzen (CC-Lizenzen) ermöglichen eine einfache und standardisierte Regelung der Nachnutzung.
+
+**Creative Commons Organisation**
+
+- Creative Commons ist eine internationale Non-Profit-Organisation.
+- Ziel ist es, die gemeinsame Nutzung von Bildung, Kultur und Wissenschaft im öffentlichen Interesse zu ermöglichen und zu erleichtern.
+- Dafür stellt Creative Commons bei Bedarf:
+  - technische,
+  - rechtliche und
+  - politische Lösungen bereit.
+
+- Ein zentrales Angebot sind die vorgefertigten Creative-Commons-Lizenzen.
+
+**Aufbau der CC-Lizenzen**
+
+- Rechteinhaber:innen können mithilfe verschiedener standardisierter Lizenzmodule festlegen, wie ihr Werk genutzt werden darf.
+- Dadurch müssen Nutzungsbedingungen nicht individuell für jede einzelne Nutzung ausgehandelt werden
+
+### CC-Lizenzsystem
+
+![CC-Lizenzen](./images/cc-lizenzen.png)
+
+#### CC-BY
+
+**CC BY (Attribution / Namensnennung)**
+
+- Bekannteste Creative-Commons-Lizenz.
+- Nutzung des Materials ist grundsätzlich kostenlos und frei möglich.
+- Einzige Bedingung: Die Rechteinhaber:in muss genannt werden.
+- Hinweis: Es wird bewusst von Rechteinhaber:in und nicht nur von Urheber:in gesprochen. 
+- Creative-Commons-Lizenzen setzen nicht ausschließlich Werkschutz voraus, sondern können auch bei anderen urheberrechtlichen Leistungsschutzrechten relevant sein.
+
+#### CC-SA
+
+**CC-SA (Share-Alike)**
+
+- Bearbeitungen dürfen weitergegeben werden, aber nur unter derselben bzw. einer gleichwertigen Lizenz.
+
+#### CC-NC
+
+**Non-Commercial in der Wissenschaft**
+
+- Nutzung des Materials ist nur für nicht-kommerzielle Zwecke erlaubt.
+
+- Wissenschaftliche Nutzung ist nicht automatisch nicht-kommerziell.
+- Die Bewertung hängt vom konkreten Einzelfall ab.
+- Mögliche Grenzfälle: 
+
+  - Veröffentlichung eines Papers bei einem gewinnorientierten Verlag.
+  - Auftragsforschung.
+  - Zusammenarbeit mit kommerziellen Partnern.
+  - Veröffentlichung auf einem privaten Wissenschaftsblog mit geschalteter Werbung.
+
+### CC-Kombinationen
+
+**Kombination von Creative-Commons-Modulen**
+
+- Die verschiedenen Lizenzmodule können miteinander kombiniert werden.
+- Dadurch entstehen unterschiedliche Creative-Commons-Lizenzvarianten mit verschiedenen Nutzungsbedingungen.
+- Die genaue Bedeutung der einzelnen Kombinationen kann im Detail komplex sein.
+
+**Bedeutung für Rechteinhaber:innen und Nutzer:innen**
+
+- Eine Lizenz ist ein Vertrag, der festlegt, wie ein bestimmtes Werk genutzt werden darf.
+- Rechteinhaber:innen können durch die Auswahl verschiedener Module bestimmen, welche Nutzungen sie erlauben möchten.
+- Für Nutzer:innen ist die Lizenzkennzeichnung wichtig, um zu verstehen, welche Nutzungen eines fremden Werks erlaubt sind.
+
+## Licence-Picker
+
+https://creativecommons.org/chooser/ 
+
+https://ufal.github.io/public-license-selector/
+
+
+
+
 ## Schöpfungshöhe
 Zentrale Voraussetzung für den Werkschutz ist die Schöpfungshöhe bzw. die eigenpersönliche Prägung.
 
@@ -112,232 +267,6 @@ Zentrale Voraussetzung für den Werkschutz ist die Schöpfungshöhe bzw. die eig
 Vielen Dank an Lea Sophie Singson und Sophie Boße von FAIRagro für die Bereitstellung ihres Workshops
 
 Singson, L. S., & Boße, S. (2026, August 10). Die Lizenz zum Forschen: Wann gilt das Urheberrecht und was hat die Lizenz damit zu tun? - Don`t panic! Survival Guide on Law and Ethics in Research Episode III - Trainingmaterial. Zenodo. https://doi.org/10.5281/zenodo.21871110
-
-
-
-# What does a Data management plan (DMP) have to do with it?
-
-## What is a data management plan?
-
-
-- All information that adequately describes and documents the collection, processing, storage, archiving, and publication of research data in the context of a research project.
-
-- "[...] analysis of the workflow from the generation of the data to their use.“^1^
-
-^[1] J. Ludwig, H. Enke (Hrsg.) Leitfaden zum Forschungsdaten-Management. Handreichungen aus dem WissGrid-Projekt. Verlag Werner Hülsbusch: Glückstadt, 2013.^
-
-
-## Components of a DMP
-
-{{0}}
-**********
->- Administrative data
-**********
-
-{{1-2}}
-**********
-
-  - Basic data
-    - Project title
-    - data originator
-    - other contributors
-    - contact
-    - funding organisation
-    - grant number
-  
-  - Relevant guidelines and policies 
-
-**********
-
-{{0}}
-**********
->- Data Description
-
-**********
-
-{{2-3}}
-**********
-
-  - Type of research data
-
-    - data types and formats that are reused or generated
-    - tools or software to be used
-
-  - volume
-    - amount of data to be expected
-    - size of the largest individual file
-
-**********
-
-{{0}}
-**********
->- Data documentation & quality control
-
-**********
-
-
-{{3-4}}
-**********
-  - folder and file naming conventions
-  - versioning
-  - metadata standards
-  - controlled vocabularies / ontologies
-  - supporting documentation
-  - virtual research environments / databases / ELAB journals
-
-*********
-
-{{0}}
-**********
->- Storage & Backup
-
-**********
-
-{{4-5}}
-**********
-  - storage and data sharing during the project
-  - backup strategy
-  - access control according to protection requirements (e.g. GDPR)
-  - long-term storage according to GRP
-
-*********
-
-{{0}}
-**********
->- Legal aspects
-
-**********
-
-{{5-6}}
-**********
-  - Data protection
-  - Copyright and rights of use
-  - Licensing law, patent law, etc.
-
-*********
-
-{{0}}
-**********
->- Data publication
-
-**********
-
-{{6-7}}
-**********
-  - selection of datasets
-  - name of the (domain-specific) repository
-  - timeline of data transfer to the archive
-  - time of publication (embargo, if applicable)
-  - reason for restrictions
-  - selection of usage licenses
-
-*********
-
-{{0}}
-**********
->- Responsibilities & Ressources
-
-**********
-
-{{7-8}}
-**********
-  - Who is responsible for RDM?
-
-    - regulation of responsibilities
-    - access control
-    - training of project participants
-    - data curation
-
-  - What does RDM cost?
-    Budget at least 5% for RDM costs!
-
-*********
-
-{{8}}
-**********
-
-Length can vary from a few paragraphs to several pages!
-
-*********
-
-## How? Templates & Tools
-
-### DMP templates
-
-> **So, how to start...? Use templates!**
-
-{{1}}
-**********
-**Templates**
-
-* [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
-
-* [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
-
-* [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
-
-**********
-
-### DMP tools
-
-
-**Generic DMP-Tools**
-
-[Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
-
-[DMPonline - Digital Curation Centre (DDC), hosted by University of Edinburgh](https://dmponline.dcc.ac.uk/)
-
-[DMP Tool - California Digital Library](https://dmptool.org/)
-
-
-
-### Common mistakes in DMP writing
-
-* lack of accuracy
-
-* reuse of (generic) text blocks
-
-* terminological inaccuracies
-
-* lack of resource calculation
-
-### DMP checklist
-
-1. Determine the Research Funder Requirements
-
-2. Identify the Data to Be Collected
-
-3. Define How the Data Will Be Organized
-
-4. Explain How the Data Will Be Documented
-
-5. Describe How Data Quality Will Be Assured
-
-6. Present a Sound Data Storage and Preservation Strategy
-
-7. Define the Project’s Data Policies
-
-8. Describe How the Data Will Be Disseminated
-
-9. Assign Roles and Responsibilities
-
-10. Prepare a Realistic Budget
-
-Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
-https://doi.org/10.1371/journal.pcbi.1004525 
-
-
-## Questions
-
->**Nearly done!**
->![image](images/FragezeichenTyp.jpg) <!--
-style="width: 10%; max-width: 800px; float:right"
-title="puzzle"
-onclick="alert('Questions?');"
--->
->
->Time for questions!
-
 
 
 ## Thank you! :-)
