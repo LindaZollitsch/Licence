@@ -8,11 +8,376 @@ narrator:
 
 icon:     images\cau-norm-en-lilagrey-rgb.png
 
-link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
-comment:  Presentation for 1h workshop "Introduction to Research Data Management" for PhDs
+
+import:   https://raw.githubusercontent.com/LiaTemplates/Fullscreen/0.0.1/README.md
+
+link: style_css.css
+
+
+licence: CC-BY 4.0
+
+comment:  Presentation Licences for PhDs
 
 -->
+
+
+# Lizenzen
+
+<script input="button">
+alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlassen, sobald Sie diese Präsentation in Ihrem Browser öffnen. Diese Präsentation enthält Links zu Websites und Diensten Dritter. Diese Websites unterliegen nicht unserer Kontrolle. FDM@CAU übernimmt keine Verantwortung für die Inhalte verlinkter Websites Dritter. Bitte beachten Sie, dass die Sicherheits- und Datenschutzrichtlinien auf diesen Websites von den Richtlinien der CAU abweichen können. Bitte lesen Sie die Datenschutz- und Sicherheitsrichtlinien Dritter sorgfältig durch.")
+
+"Disclaimer"
+</script>
+
+-----
+
+Lizenzen
+---
+
+
+
+
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/Licence/main/presentation.md#1)
+>
+> If you have questions, please contact us: [Central Research Data Management](https://www.uni-kiel.de/de/universitaet/handlungsfelder/digitale-transformation/forschungsdatenmanagement)
+>
+> This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+
+
+
+## Beschreibung
+
+---
+
+In der Lehre ist es üblich, Materialien weiterzuverwenden und anzupassen. Damit Materialien langfristig zugänglich, nutzbar und veränderbar bleiben, kommt es darauf an, sie entsprechend zu gestalten.
+
+---
+
+Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER und FAIR ein und zeigen, wie ihr offene und nachnutz bare Lehr- und Informationsmaterialien erstellen und weiterentwickeln könnt. Gemeinsam betrachten wir konkrete Ansätze, die ihr direkt auf eure eigenen Materialien anwenden könnt.
+
+---
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+## Limitation
+
+- Eine praktische Umsetzung und Überarbeitung von eigenen Materialien kann im Rahmen des Workshops nicht geleistet werden.
+
+- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien und geben dafür Beispiele.
+
+- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen.
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+# Theoretische Einführung
+
+![FAIR, OER](./images/OER-FAIR.png)
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+## Open Educational Resources (OER)
+
+![OER Logo](/images/OER.png)<!--style = "width: 300px;"-->
+
+^This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.^
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+### Was ist das?
+
+<!---
+
+Lernziele (LZM-FDM):
+
+Lernende können den Begriff OER erläutern.*
+
+--->
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+{{0-1}}
+********************
+offene Fragerunde:
+---
+
+- **Welche Berührungspunkte hattet ihr bisher mit OER?**
+
+- **Was wisst ihr bereits über OER?**
+
+********************
+
+{{1-2}}
+********************
+
+Definition
+---
+
+"Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen."
+"OER sind nicht nur kostenlos zugänglich, sondern können auch frei bearbeitet, geteilt, aktualisiert und vor allem an individuelle Lernbedürfnisse und -kontexte angepasst werden."
+
+"Open Educational Resources können einzelne Materialien, aber auch komplette Kurse oder Bücher umfassen. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimedia-Anwendungen, Podcasts – all diese Ressourcen sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden. Dabei bestimmen die Urhebenden selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten."
+
+https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/global-citizenship-education/friedens-und-menschen/open-educational-resources/
+
+********************
+
+{{2-3}}
+********************
+
+OER umfassen
+---
+
+* Lehrbücher
+* Lehrpläne
+* Lehrveranstaltungskonzepte
+* Skripte
+* Aufgaben
+* Tests
+* Projekte
+* Audio-, Video- und Animationsformate.
+
+Und vieles mehr...
+
+********************
+
+{{3}}
+****************************
+
+OER anhand der 5V
+---
+
+
+| Anforderung                  | Bedeutung                                  |
+| ---------------------------- | ------------------------------------------ |
+| `verwahren/vervielfältigen ` | Download, Speicherung und Vervielfältigung |
+| `verwenden`                  | Nutzung im Lernkontext                     |
+| `verarbeiten`                | Umgestaltung und Adaption                  |
+| `vermischen`                 | Kombination und Extraktion                 |
+| `verbreiten`                 | (digitale) Publikation                     |
+
+
+*_5 V-Freiheiten für Offenheit_ von Jöran Muuß-Merholz und Jörg Lohrer für [open-educational-ressources](https://open-educational-resources.de) - Transferstelle für OER*
+
+_OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunderts sein._
+
+-- _Handreichung OER - Der Einstieg in den Umgang mit Open Educational Ressources_, Bericht des Projektes OERsax, 2018
+
+*******************************
+
+### Kritik am OER-Ansatz
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+Welche Probleme seht ihr im OER-Ansatz?
+---
+
+-----
+
+{{1}}
+********************
+
+| Ebene                               | Kernaussage                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------------------------- |
+| Emotionale Einordnung               | "_Da kann ja jeder meine Arbeit für sich nutzen!_"                                      |
+|                                     | "_Da kann mich ja jeder kontrollieren!_"                                                |
+| Rechtliche Herausforderungen        | "_Ich verwende viele Grafiken, bei deren Urheberrecht ich mir im besten Fall unsicher bin!_"                                                                                        |
+| Auffindbarkeit                      | "_Ich finde keine Inhalte, die ich in meiner Lehre gewinnbringend integrieren kann!_"   |
+| <!-- Style="color:red" --> Aufwand  | <!-- Style="color:red" --> "_Da muss man ja Informatik studiert haben!_"                |
+| <!-- Style="color:red" -->Abdeckung | <!-- Style="color:red" -->"_Da fehlen mir aber die Schnittstellen für meine Tools XY!_" |
+
+********************
+
+### OER in a nutshell
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
+---
+
+  - Zugänglichkeit    
+  - offene Lizenz
+  - kostenlose Nutzung
+  - Bearbeitung und Weiterverbreitung (mit geringfügigen Einschränkungen) erlaubt
+
+-----
+
+## FAIR-Prinzipien
+
+-----
+
+Wofür steht FAIR?
+---
+![Fragezeichen](/images/FragezeichenTyp.jpg)<!--style = "width: 100px;"-->
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+### Was ist das?
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+{{0-1}}
+****************
+<img src="./images/fair2.jpg" width="450" align="right"> 
+
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
+
+Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.
+
+<small>Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).</small>
+
+****************
+
+{{1}}
+>**F**indable
+
+{{2-3}}
+****************
+Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein.
+
+- Auffindbarkeit für Menschen und Maschinen
+- Metadaten maschinenlesbar
+- Vergabe eines persistenten Identifikators für (Meta-) Daten
+
+***************
+
+{{1}}
+>**A**ccessible
+
+{{3-4}}
+***********************
+Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
+
+- Verfügbarkeit von Daten und Metadaten für Menschen und Maschinen
+- über Standard-Kommunikationsprotokolle (z.B. https)
+- Metadaten verfügbar machen, auch wenn die Daten selbst nicht direkt zur Verfügung stehen
+
+******************
+
+{{1}}
+>**I**nteroperable
+
+{{4-5}}
+**********************
+Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
+
+- Verknüpfungsmöglichkeiten verschiedener Datensätze ermöglichen
+- Nutzung von Ontologien, Thesauri sowie maschinenlesbare Formate (z.B. XML)
+- Verknüpfung von Datensätzen mit persistenten Identifikatoren und durch Verweise
+
+**********************
+
+{{1}}
+>**R**eusable
+
+{{5-6}}
+***************
+Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
+
+- Entstehung von Daten dokumentieren (z.B. Methoden und Geräte)
+- Zitieren durch persistente Identifikatoren wie DOIs
+- Lizensierung, um die Bedingungen für die Nachnutzung eindeutig zu kennzeichnen
+
+**************
+
+
+### FAIR-Prinzipien in a nutshell
+
+![FAIR-Prinzipien](./images/fair_beispiele.png) 
+
+^Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2^
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+#### Exkurs: Was sind eigentlich Metadaten?
+
+{{1}}
+***************
+Metdata sind...
+
+- Daten über Daten
+
+- Administrative Daten
+
+   - Informationen zur Verwaltung der Daten
+   - Meist allgemeiner Natur
+
+
+- fachspezifische Daten
+
+  - Einzelne Aspekte oder Datensätze im Detail
+  - Strukturiert nach Forschungsdisziplin
+
+- Allgemeine Standards
+
+  - [DataCite-Metadatenschema](https://schema.datacite.org/)
+  - [Dublin Core Metadata Initiative](https://dublincore.org/)
+
+- Fachspezifische Standards
+
+  - [Verzeichnis der Metadatenstandards](https://rdamsc.bath.ac.uk/)
+
+***************
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+## FAIRe OER: zwei Beispiele
+
+{{1-2}}
+**********************
+- Findable
+
+- Accessible
+
+- Interoperable
+
+- Reusable
+
+**********************
+
+{{2}}
+**********************
+- Findable
+
+- Accessible
+
+- **Interoperable**
+
+- **Reusable**
+
+**********************
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+### Am Beispiel des "I": Dateiformate 
+
+
+{{0-2}}
+***
+Nicht alle Dateiformate sind für die Langzeitarchivierung und Datenaustausch geeignet.
+---
+
+***
+
+{{1-2}}
+***
+Sammelt Dateiformate, mit denen ihr aktuell Materialien erstellt.
+
+https://answergarden.ch/5231834
+
+***
+
+{{2-3}}
+***
+<iframe src="https://answergarden.ch/5231
+
+
+
+
 
 # Welcome
 
